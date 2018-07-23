@@ -8,7 +8,7 @@ public class String_follow {
 		sf.count1();
 		//System.out.println(sf.count1());
 		sf.count11();
-		String s = "neha";
+		String s = "nehaasthana";
 		
 	}
 	int count1()

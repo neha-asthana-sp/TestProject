@@ -10,6 +10,7 @@ public class String_follow {
 		sf.count11();
 		String s = "nehaasthana";
 		String s1 = "TEstMaster";
+		String s12 = "TEstFeqature";
 		
 	}
 	int count1()

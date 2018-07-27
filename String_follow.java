@@ -12,6 +12,7 @@ public class String_follow {
 		String s1 = "TEstMaster";
 		String s12 = "TEstFeqature";
 		String s13 = "TEstMasterFeqature";
+		String s14 = "TEstBranchFeqature";
 		
 	}
 	int count1()

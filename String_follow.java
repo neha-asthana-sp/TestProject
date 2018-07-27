@@ -9,7 +9,7 @@ public class String_follow {
 		//System.out.println(sf.count1());
 		sf.count11();
 		String s = "nehaasthana";
-		String s1 = "TEst";
+		String s1 = "TEstMaster";
 		
 	}
 	int count1()

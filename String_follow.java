@@ -11,7 +11,10 @@ public class String_follow {
 		String s = "nehaasthana";
 		String s1 = "TEstMaster";
 		String s12 = "TEstFeqature";
+<<<<<<< HEAD
 		String s13 = "TEstMasterFeqature";
+=======
+>>>>>>> branch 'Test1' of https://github.com/neha-asthana-sp/TestProject.git
 		String s14 = "TEstBranchFeqature";
 		
 	}
